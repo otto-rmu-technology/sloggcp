@@ -22,7 +22,7 @@ For example, CloudRun, etc.
 package main
 
 import (
-	"github.com/vlad-tokarev/sloggcp"
+	"github.com/otto-rmu-technology/sloggcp"
 	"log/slog"
 	"os"
 )
